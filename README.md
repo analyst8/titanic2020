@@ -1,2 +1,2 @@
 # titanic2020
-# python titanic project
+# python titanic project from kaggle
